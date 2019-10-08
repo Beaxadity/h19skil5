@@ -7,8 +7,8 @@ vorur=[
 	[1,"iStick",1599,"Gumbo.jpg"],
 	[2,"Scotch Pin",999,"Pin.jpg"],
 	[3,"Twat Waffle",1979,"Twaffle.jpg"],
-	[4,"Unicorn Meat",15000,"UniBeef.JPG"],
-	[5,"Willy Warmer",2999,"Wonka.JPG"],
+	[4,"Unicorn Meat",15000,"UniBeef.jqg"],
+	[5,"Willy Warmer",2999,"Wonka.jqg"],
 	[6,"1 Zillion Dollar Bill",1000000000000000,"Zillion.jpg"]
 ]
 
